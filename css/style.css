@@ -434,5 +434,20 @@
 .footer-bottom p{
 	font-size: 13px;
 }
-.{}
-.{}
+
+
+
+
+
+@media (max-width: 991.98px) { 
+	.whychoose-section-text button.btn.choose-btn {
+		margin-bottom: 50px;
+	}
+	.news-text {
+		padding-left: 0;
+	}
+	.news-form .news-input {
+		font-size: 18px;
+		width: 324px;
+	}
+ }
