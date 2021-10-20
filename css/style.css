@@ -514,6 +514,24 @@
 	.gallery-img {
 		padding-right: 180px;
 	}
+	.header-top-right {
+		float: right;
+		display: block;
+		position: relative;
+		margin-top: -34px;
+	}
+	.header-top-left ul li {
+		list-style: none;
+		display: block;
+		padding-right: 40px;
+		font-size: 14px;
+		color: white;
+	}
+	.header-top-right ul li a {
+		color: white;
+		padding-left: 14px;
+		font-size: 18px;
+	}
 	
   }
 
